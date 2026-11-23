@@ -15,7 +15,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Y4NXIxbzhvaTdoYmxnOHYwejU4NWcwamFyeTZjZ210OTIyZDlsbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zv5hGv7XEMmXKMAI5R/giphy.gif" />
 
 
-*Technologies & Tools*
+**Technologies & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -29,7 +29,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 
 
 
-*Areas of Interest*
+**Areas of Interest**
 
 - Network Security
 - Ethical Hacking
