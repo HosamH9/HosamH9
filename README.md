@@ -1,6 +1,6 @@
 # Hosam Hatem
 
-**Computer Science Student | Aspiring Software Developer**
+**Computer Science Student | Cybersecurity Enthusiast**
 
 I'm a Computer Science student interested in software development, problem-solving, and exploring how technology can be used to build creative and practical solutions. I'm continuously learning, experimenting, and developing my skills through hands-on practice.
 
@@ -10,7 +10,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 
 - Computer Science student at Zagazig University.
 - Interested in Software Development, Artificial Intelligence, Cybersecurity, and Game Development.
-- Currently improving my programming and problem-solving skills.
+- Currently developing my cybersecurity knowledge and practical skills.
 - Enjoy exploring new technologies and building things from scratch.
 
 ---
@@ -20,11 +20,23 @@ I'm a Computer Science student interested in software development, problem-solvi
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## Areas of Interest
+
+- Network Security
+- Ethical Hacking
+- Penetration Testing
+- Linux
+- Security Fundamentals
+- Vulnerability Analysis
 
 ---
 
@@ -34,6 +46,10 @@ I'm a Computer Science student interested in software development, problem-solvi
 - C++ and Object-Oriented Programming
 - Python Development
 - Software Engineering Fundamentals
+- Cybersecurity fundamentals
+- Linux and system administration
+- Network security
+- Security tools and methodologies
 
 ---
 
