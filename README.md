@@ -13,7 +13,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 - Currently developing my cybersecurity knowledge and practical skills.
 - Enjoy exploring new technologies and building things from scratch.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Y4NXIxbzhvaTdoYmxnOHYwejU4NWcwamFyeTZjZ210OTIyZDlsbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zv5hGv7XEMmXKMAI5R/giphy.gif" />
----
+-
 
 ## Technologies & Tools
 
@@ -27,7 +27,7 @@ I'm a Computer Science student interested in software development, problem-solvi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+-
 
 ## Areas of Interest
 
@@ -38,7 +38,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 - Security Fundamentals
 - Vulnerability Analysis
 
----
+-
 
 ## Currently Learning
 
