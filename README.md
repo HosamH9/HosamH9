@@ -62,6 +62,9 @@ I'm a Computer Science student interested in software development, problem-solvi
    <a href="https://vjudge.net/user/Hosam_Hatem">
     <img src="https://img.shields.io/badge/Virtual%20Judge-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+    <a href="https://codeforces.com/profile/HosamH33">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
 ---
