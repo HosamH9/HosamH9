@@ -12,8 +12,6 @@ I'm a Computer Science student interested in software development, problem-solvi
 - Interested in Software Development, Artificial Intelligence, Cybersecurity, and Game Development.
 - Currently developing my cybersecurity knowledge and practical skills.
 - Enjoy exploring new technologies and building things from scratch.
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZtazFqazRpODcydHExN3ZyOXdlcG92andwdXJqd2l6cnJhMTR6NyZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 
 ## Technologies & Tools
 
