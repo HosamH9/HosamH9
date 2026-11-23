@@ -70,4 +70,3 @@ I'm a Computer Science student interested in software development, problem-solvi
 ---
 
 *"Building, learning, and improving one step at a time."*
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
